@@ -1,4 +1,4 @@
-# Food and Drink Ordering System - OOP244 Final Project
+# Food and Drink Ordering System - OOP (C++)
 ---
 
 ![alt text](system_order.png)
