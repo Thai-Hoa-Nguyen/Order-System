@@ -3,7 +3,7 @@
 
 ## Overview
 
-![alt text](img/system_order.png)
+![system_order](system_order.png)
 
 This project implements a **console-based food and drink ordering system** using **Object-Oriented Programming in C++**.  
 It simulates a menu-driven ordering interface with food and drink customization, billing, and file-saving functionality.
