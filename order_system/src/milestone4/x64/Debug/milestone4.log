@@ -1,0 +1,11 @@
+﻿  Billable.cpp
+  Drink.cpp
+C:\Users\thaiv\OneDrive\Desktop\Order-System\order_system_version_1\src\Drink.cpp(72,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Food.cpp
+C:\Users\thaiv\OneDrive\Desktop\Order-System\order_system_version_1\src\Food.cpp(111,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Menu.cpp
+  Ordering.cpp
+  Utils.cpp
+  ms4.cpp
+  Generating Code...
+  milestone4.vcxproj -> C:\Users\thaiv\OneDrive\Desktop\Order-System\order_system_version_1\src\x64\Debug\milestone4.exe

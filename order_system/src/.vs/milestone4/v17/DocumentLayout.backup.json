@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thaiv\\OneDrive\\Desktop\\Order-System\\order_system_version_1\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7BBA5-A1A2-4E5F-89C4-9909CFAC9BBB}|milestone4.vcxproj|C:\\Users\\thaiv\\OneDrive\\Desktop\\Order-System\\order_system_version_1\\src\\ms4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7BBA5-A1A2-4E5F-89C4-9909CFAC9BBB}|milestone4.vcxproj|solutionrelative:ms4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7BBA5-A1A2-4E5F-89C4-9909CFAC9BBB}|milestone4.vcxproj|C:\\Users\\thaiv\\OneDrive\\Desktop\\Order-System\\order_system_version_1\\src\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7BBA5-A1A2-4E5F-89C4-9909CFAC9BBB}|milestone4.vcxproj|solutionrelative:Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ms4.cpp",
+              "DocumentMoniker": "C:\\Users\\thaiv\\OneDrive\\Desktop\\Order-System\\order_system_version_1\\src\\ms4.cpp",
+              "RelativeDocumentMoniker": "ms4.cpp",
+              "ToolTip": "C:\\Users\\thaiv\\OneDrive\\Desktop\\Order-System\\order_system_version_1\\src\\ms4.cpp",
+              "RelativeToolTip": "ms4.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T18:27:16.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\thaiv\\OneDrive\\Desktop\\Order-System\\order_system_version_1\\src\\Menu.cpp",
+              "RelativeDocumentMoniker": "Menu.cpp",
+              "ToolTip": "C:\\Users\\thaiv\\OneDrive\\Desktop\\Order-System\\order_system_version_1\\src\\Menu.cpp",
+              "RelativeToolTip": "Menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T18:27:15.913Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
