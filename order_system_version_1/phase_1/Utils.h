@@ -1,17 +1,3 @@
-/***********************************************************************
-// OOP244 Project, Utils Module
-//
-// File	Utils.h
-// Version 0.1
-// started by Fardad 
-// Description
-// utility function to be used in the project
-// Revision History
-// -----------------------------------------------------------
-// Name Thai Hoa Nguyen            Date            Reason
-//
-/////////////////////////////////////////////////////////////////
-***********************************************************************/
 #ifndef SENECA_UTILS_H
 #define SENECA_UTILS_H
 namespace seneca {
